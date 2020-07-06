@@ -2,8 +2,9 @@
 
 A simple Python Script to Call API for Beyond Trust Secret Safe 
 
-![CI Console Output](https://github.com/pdasilva11/SecretSafe/tree/master/Public/1.png)
 
-![CI Console Output]
+Enter the IP Address of Secret Safe Slave Node
+![Console Output](https://github.com/pdasilva11/SecretSafe/blob/master/Public/1.png)
+
 
 
