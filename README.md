@@ -7,4 +7,3 @@ A simple Python Script to Call API for Beyond Trust Secret Safe
 ![CI Console Output]
 
 
-![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
